@@ -131,6 +131,13 @@ Styled Components
 React Router
 
 
+📈 Melhorias Futuras:
+- 👊 Apresentar descrição das habilidades dos Pokémons
+- 🔍 Busca por nome ou ID: Permitir ao usuário pesquisar Pokémon específicos diretamente
+- 🧩 Filtragem avançada: Exibir Pokémons por tipo
+- ⚡ Implementação de testes: Implementar testes utilizando jest ou outra biblioteca para testes unitários
+
+
 📄 Licença:
 Este projeto foi desenvolvido como parte de um teste técnico e é destinado apenas para fins de avaliação.
 
